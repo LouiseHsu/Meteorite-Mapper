@@ -23,7 +23,6 @@ public class Main extends ApplicationTemplate
 {
     public static class AppFrame extends ApplicationTemplate.AppFrame
     {
-        //private List<PointPlacemark> list= new ArrayList<PointPlacemark>();
         private static final double ELEVATION = 1e4;
         final RenderableLayer firstLayer = new RenderableLayer();
         final RenderableLayer secondLayer = new RenderableLayer();
